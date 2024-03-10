@@ -4,5 +4,6 @@ int main(){
     cout<<"ZA Wardo";
     cout<<"Tokiyo Tomare";
     cout<<"Muda Muda Muda";
+    cout<<"Ora Ora Ora";
     return 0;
 }
