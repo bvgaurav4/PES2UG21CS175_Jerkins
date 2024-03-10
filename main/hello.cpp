@@ -1,6 +1,8 @@
 #include<iostream>
-
+using namespace std;
 int main(){
-    std::cout<<"ZA Wardo";
+    cout<<"ZA Wardo";
+    cout<<"Tokiyo Tomare";
+    cout<<"Muda Muda Muda";
     return 0;
 }
